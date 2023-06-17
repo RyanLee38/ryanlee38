@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlee38&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/ryanlee38/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlee38&layout=compact&theme=tokyonight)
+
 <!--
 **RyanLee38/ryanlee38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
