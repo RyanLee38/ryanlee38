@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlee38&layout=compact&theme=tokyonight)
 
+- 🔭 I’m currently working on deep learning framework && LLM application.
+
 <!--
 **RyanLee38/ryanlee38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
